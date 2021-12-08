@@ -1,0 +1,52 @@
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Dominio.deps.json
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Dominio.dll
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ref\ProjetoLeads.Dominio.dll
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Dominio.pdb
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Comum.pdb
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.csproj.AssemblyReference.cache
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.AssemblyInfoInputs.cache
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.AssemblyInfo.cs
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.csproj.CopyComplete
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.dll
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ref\ProjetoLeads.Dominio.dll
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.pdb
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.dll
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ref\ProjetoLeads.Dominio.dll
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.pdb
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.csproj.AssemblyReference.cache
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.AssemblyInfoInputs.cache
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.AssemblyInfo.cs
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ref\ProjetoLeads.Dominio.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.pdb
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Dominio.deps.json
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Dominio.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ref\ProjetoLeads.Dominio.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Dominio.pdb
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Comum.pdb
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Dominio.deps.json
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Dominio.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ref\ProjetoLeads.Dominio.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Dominio.pdb
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\bin\Debug\net5.0\ProjetoLeads.Comum.pdb
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.csproj.AssemblyReference.cache
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.AssemblyInfoInputs.cache
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.AssemblyInfo.cs
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.csproj.CopyComplete
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ref\ProjetoLeads.Dominio.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Dominio\obj\Debug\net5.0\ProjetoLeads.Dominio.pdb

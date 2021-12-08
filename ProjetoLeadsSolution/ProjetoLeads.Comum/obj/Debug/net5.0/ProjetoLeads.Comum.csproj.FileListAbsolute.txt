@@ -1,0 +1,48 @@
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ProjetoLeads.Comum.deps.json
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ref\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ProjetoLeads.Comum.pdb
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.csproj.AssemblyReference.cache
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.AssemblyInfoInputs.cache
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.AssemblyInfo.cs
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.csproj.CoreCompileInputs.cache
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ref\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.pdb
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ProjetoLeads.Comum.deps.json
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ProjetoLeads.Comum.dll
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ref\ProjetoLeads.Comum.dll
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ProjetoLeads.Comum.pdb
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.dll
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ref\ProjetoLeads.Comum.dll
+C:\Users\mathe\Desktop\Projeto Leads\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.pdb
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ProjetoLeads.Comum.deps.json
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ref\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ProjetoLeads.Comum.pdb
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.csproj.AssemblyReference.cache
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.AssemblyInfoInputs.cache
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.AssemblyInfo.cs
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.csproj.CoreCompileInputs.cache
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ref\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.pdb
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ProjetoLeads.Comum.deps.json
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ref\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\bin\Debug\net5.0\ProjetoLeads.Comum.pdb
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.csproj.AssemblyReference.cache
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.AssemblyInfoInputs.cache
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.AssemblyInfo.cs
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.csproj.CoreCompileInputs.cache
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ref\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Comum\obj\Debug\net5.0\ProjetoLeads.Comum.pdb

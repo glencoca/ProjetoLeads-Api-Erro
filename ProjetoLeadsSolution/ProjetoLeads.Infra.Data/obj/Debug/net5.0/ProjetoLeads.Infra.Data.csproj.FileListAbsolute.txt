@@ -1,0 +1,39 @@
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.AssemblyInfo.cs
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Infra.Data.deps.json
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Infra.Data.runtimeconfig.json
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Infra.Data.runtimeconfig.dev.json
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Infra.Data.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ref\ProjetoLeads.Infra.Data.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Infra.Data.pdb
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Dominio.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Dominio.pdb
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Comum.pdb
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ref\ProjetoLeads.Infra.Data.dll
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.pdb
+C:\Users\44602584802\Desktop\Susu Mandraka da Zl\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.genruntimeconfig.cache
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Infra.Data.deps.json
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Infra.Data.runtimeconfig.json
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Infra.Data.runtimeconfig.dev.json
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Infra.Data.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ref\ProjetoLeads.Infra.Data.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Infra.Data.pdb
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Comum.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Dominio.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Dominio.pdb
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\bin\Debug\net5.0\ProjetoLeads.Comum.pdb
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.AssemblyInfo.cs
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.csproj.CopyComplete
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ref\ProjetoLeads.Infra.Data.dll
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.pdb
+C:\Users\44602584802\Desktop\Nova pasta\ProjetoLeads\ProjetoLeadsSolution\ProjetoLeads.Infra.Data\obj\Debug\net5.0\ProjetoLeads.Infra.Data.genruntimeconfig.cache
